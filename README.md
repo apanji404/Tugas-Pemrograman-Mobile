@@ -1,2 +1,2 @@
 # ujicoba
-project ujicoba
+project tugas pemrograman mobile
